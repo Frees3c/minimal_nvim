@@ -1,0 +1,1 @@
+Minimal lsp Neovim Config
